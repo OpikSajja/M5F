@@ -1,5 +1,5 @@
 # -*- coding: utf-8
-# coded by Dicky Wahyudi
+# coded by Opik Alexander
 # Bang Dicky Saya Mau Recode
 # Karena Saya Bodoh&Tolol Kalau Soal Ngoding Bang
 # Bakat Saya Hanya Recode Dan Saya Bangga Karna Saya Manusia Sampah
